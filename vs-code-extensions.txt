@@ -1,0 +1,25 @@
+1. Auto Rename Tag
+2. CSS Peek
+3. ES7+ React/Redux/React-Native snippets
+4. HTML Boilerplate
+5. JavaScript (ES6) code snippets
+6. Material Icon Theme
+7. Prettier - Code formatter
+8. Tabnine: AI Autocomplete & Chat for Javascript,  Python, Typescript, PHP, Go, Java & more
+9. vscode-icons
+10. Andromeda
+11. Bracket Pair Color DLW
+12. Code Spell Checker
+13. CSS Compressor
+14. CSS Flexbox Cheatsheet
+15. CSS Var Complete
+16. CSS Variable Autocomplete
+17. HTML CSS Support
+18. HTML to CSS autocompletion
+19. IntelliSense for CSS class names in HTML
+20. Learn with Sumit Theme
+21. Live Sass Compiler
+22. Live Server
+23. Live Server Preview
+24. Path Autocomplete
+25. Path Autocomplete
